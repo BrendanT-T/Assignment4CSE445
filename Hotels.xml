@@ -13,17 +13,6 @@
             <Zip>85281</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="4.5">
-        <Name>Hilton Phoenix Airport</Name>
-        <Phone>602-273-7777</Phone>
-        <Address NearestAirport="Phoenix Sky Harbor">
-            <Number>2435</Number>
-            <Street>S 47th St</Street>
-            <City>Phoenix</City>
-            <State>AZ</State>
-            <Zip>85034</Zip>
-        </Address>
-    </Hotel>
     <Hotel Rating="4.1">
         <Name>Sheraton Grand Phoenix</Name>
         <Phone>602-262-2500</Phone>
@@ -124,6 +113,17 @@
             <City>Scottsdale</City>
             <State>AZ</State>
             <Zip>85251</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating = "4.5">
+        <Name>Hilton Phoenix Airport</Name>
+        <Phone>602-273-7777</Phone>
+        <Address NearestAirport="Phoenix Sky Harbor">
+            <Number>2435</Number>
+            <Street>S 47th St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85034</Zip>
         </Address>
     </Hotel>
 </Hotels>
